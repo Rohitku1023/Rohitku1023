@@ -97,14 +97,14 @@ const rohit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohitku1023&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitku1023&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohitku1023&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rohitku1023&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rohitku1023&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohitku1023&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -120,31 +120,16 @@ const rohit = {
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Rohitku1023&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/Rohitku1023)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Rohitku1023&repo=My-Portfolio&theme=tokyonight&hide_border=true)](https://github.com/Rohitku1023/My-Portfolio)
-[![SAAS](https://github-readme-stats.vercel.app/api/pin/?username=Rohitku1023&repo=SAAS&theme=tokyonight&hide_border=true)](https://github.com/Rohitku1023/SAAS)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+| 🗂️ Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| [**My Portfolio**](https://github.com/Rohitku1023/My-Portfolio) | Personal developer portfolio website | JavaScript, HTML, CSS |
+| [**SAAS App**](https://github.com/Rohitku1023/SAAS) | SaaS application project | JavaScript |
+| [**Jobby App**](https://github.com/Rohitku1023/Jobby-App) | Job search and listing application | JavaScript, React |
+| [**Ecommerce**](https://github.com/Rohitku1023/Ecommerce) | Full-featured ecommerce site | JavaScript, React |
 
 </div>
 
