@@ -1,95 +1,119 @@
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rohit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20BTech%20CSE%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=65&descSize=17&descColor=a78bfa" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Rohit%20Kumar%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=👋+Hey+there!+I'm+Rohit+Kumar;💻+Full+Stack+Web+Developer;⚛️+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🚀+Building+things+that+matter;🌱+Always+learning%2C+always+growing;🤝+Open+to+collaborate+on+cool+projects!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=BTech+CSE+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%92%A1)](https://git.io/typing-svg)
+<br/>
+
+<!-- ANIMATED BADGES - Social Links -->
+<a href="https://www.linkedin.com/in/rohit-kumar-33b381273/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rohitku101223@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Rohitku1023">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/Rohitku1023/My-Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rohitku1023&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Rohitku1023?style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Rohitku1023?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```javascript
-const rohit = {
-  name: "Rohit Kumar",
-  role: "BTech CSE Student",
-  location: "India 🇮🇳",
-  learning: ["Web Development", "Backend Technologies", "Open Source"],
-  goals: "Collaborate on meaningful open-source projects",
-  contact: "rohitku101223@gmail.com",
-  funFact: "I turn ☕ into code!"
+## 🧠 About Me
+
+<img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```ts
+const rohit: Developer = {
+  name        : "Rohit Kumar",
+  title       : "Full Stack Developer",
+  education   : "BTech CSE 🎓",
+  location    : "India 🇮🇳",
+
+  currentlyOn : [
+    "Building MERN stack apps",
+    "Contributing to open source"
+  ],
+  learning    : [
+    "System Design",
+    "Cloud & DevOps",
+    "Advanced React Patterns"
+  ],
+  askMeAbout  : [
+    "React", "Node.js",
+    "MongoDB", "Express", "JS"
+  ],
+  funFact     : "I debug with console.log 😄",
 };
 ```
 
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🌐 Connect With Me
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-33b381273/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitku101223@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitku1023)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/Rohitku1023/My-Portfolio)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
+<!-- Animated skill icons using skillicons.dev -->
 ### 🖥️ Languages
-<div align="center">
+<br/>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,python&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 🎨 Frontend
-<div align="center">
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
 
-</div>
+### ⚙️ Backend & Databases
+<br/>
 
-### ⚙️ Backend & APIs
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite&theme=dark&perline=8)](https://skillicons.dev)
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+### 🛠️ Tools & Platforms
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
-### 🗄️ Databases
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+| 🔥 Project | 📋 Description | 🏷️ Stack | 🔗 |
+|:---:|:---|:---:|:---:|
+| **My Portfolio** | Personal developer portfolio showcasing skills & projects | `JS` `HTML` `CSS` | [View →](https://github.com/Rohitku1023/My-Portfolio) |
+| **SAAS App** | Feature-rich SaaS application with modern UI | `React` `Node.js` `MongoDB` | [View →](https://github.com/Rohitku1023/SAAS) |
+| **Jobby App** | Job search & listing platform with auth & smart filters | `React` `REST API` `CSS` | [View →](https://github.com/Rohitku1023/Jobby-App) |
+| **Ecommerce** | Full-featured ecommerce site with cart & products | `React` `Redux` `CSS` | [View →](https://github.com/Rohitku1023/Ecommerce) |
 
 </div>
 
-### 🚀 DevOps & Hosting
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -97,50 +121,83 @@ const rohit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohitku1023&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rohitku1023&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohitku1023&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rohitku1023&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohitku1023&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rohitku1023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rohitku1023&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📈 Contribution Graph
 
 <div align="center">
 
-| 🗂️ Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| [**My Portfolio**](https://github.com/Rohitku1023/My-Portfolio) | Personal developer portfolio website | JavaScript, HTML, CSS |
-| [**SAAS App**](https://github.com/Rohitku1023/SAAS) | SaaS application project | JavaScript |
-| [**Jobby App**](https://github.com/Rohitku1023/Jobby-App) | Job search and listing application | JavaScript, React |
-| [**Ecommerce**](https://github.com/Rohitku1023/Ecommerce) | Full-featured ecommerce site | JavaScript, React |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohitku1023&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9&line=a78bfa&point=ffffff&custom_title=Rohit's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rohitku1023&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rohitku1023&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Thanks for visiting! Let's connect and build something great together 🚀**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitku1023/Rohitku1023/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohitku1023/Rohitku1023/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rohitku1023/Rohitku1023/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌱 Currently Up To
+
+<div align="center">
+
+| 🔨 Building | 📖 Learning | 🤝 Looking For | 💬 Ask Me About |
+|:---:|:---:|:---:|:---:|
+| MERN Stack Apps | System Design | Open Source Collabs | React & Node.js |
+| REST APIs | Cloud & DevOps | Internship Opportunities | JavaScript & Web Dev |
+| Portfolio Projects | Advanced React | Freelance Projects | MongoDB & Express |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
+
+### 💜 Support My Work
+
+⭐ **Star my repos if you find them useful — it keeps me motivated!**
+
+<br/>
+
+<!-- Animated quote -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
 </div>
