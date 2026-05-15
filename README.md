@@ -121,8 +121,8 @@ const rohit: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohitku1023&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rohitku1023&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=Rohitku1023&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitku1023&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 <br/>
 
