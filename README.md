@@ -137,7 +137,7 @@ const rohit = {
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Rohitku1023&icon=6&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohitku1023&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Thanks for visiting! Let's connect and build something great together 🚀**
 
